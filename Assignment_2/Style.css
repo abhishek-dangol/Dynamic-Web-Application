@@ -1,0 +1,82 @@
+﻿body {
+
+    margin: auto;
+    height: 1000px;
+    width: 800px;
+   
+    
+}
+
+#imgBanner{
+    height: 200px;
+    width: 800px;
+    
+}
+
+#lblFirst{
+    display: inline-block;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: small;
+    margin-left: 100px;
+    
+}
+
+#lblSecond{
+    display: inline-block;
+    font-style: italic;
+    font-family: Arial;
+    font-size: small;
+    margin-left: 100px;
+}
+
+#lblThird {
+    display: inline-block;
+    text-align: center;
+    font-family: Arial;
+    font-size: small;
+    margin-left: 600px;
+}
+
+
+
+
+.infoStyle{
+    font-family: Arial;
+    color: red;
+    font-size: small;
+   
+}
+
+.sectionHeader {
+    display: inline-block;
+    font-family: Arial;
+    font-size: small;
+    font-weight: bold;
+}
+
+.marginTop{
+    margin-top: 15px;
+}
+
+.marginTopMore{
+    margin-top: 20px;
+}
+
+.marginSection {
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.marginLeft {
+    margin-left: 5px;
+}
+.disclaimer{
+    font-size: 10px;
+    margin-bottom: 20px;
+
+}
+
+.valMSg{
+    color: red
+}
